@@ -19,11 +19,11 @@ campus Palmas no curso de Ciência da Computação.
 
  `Node` : São os nós que estão presentes nas pilhas 
 
- `Operands` : É o module encarregado de empacotar funções basicas de comparação
+ `Operands` : É o module encarregado de empacotar funções básicas de comparação
 
  `Posfix`  : É o arquivo encarregado de receber uma expressão infixa e transformar em posfixa
 
- `Calc_posfix` : Arquivo que receve a expressão já transformada e posfixa e calcular o resultado usado essa base.
+ `Calc_posfix` : Arquivo que recebe a expressão já transformada em posfixa e calcular o resultado usado essa base.
 
  `main` : Onde tudo é executado.  
 
